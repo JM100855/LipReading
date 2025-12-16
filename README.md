@@ -1,4 +1,4 @@
-# 👄 Lip Reading
+# Lip Reading
 
 This project implements a lip-reading system that predicts spoken words using video input only. It processes videos frame by frame, focuses on mouth movements, and learns how lip motion changes over time to match spoken text.
 
